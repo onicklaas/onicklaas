@@ -7,7 +7,7 @@ Currently studying **Software Development with a specialization in AI**.
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,cs,mysql,git,github,vscode,javascript,postman,.NET,typescript"/>
+<img src="https://skillicons.dev/icons?i=python,cs,mysql,git,github,vscode,javascript,postman,dotnet,typescript"/>
 
 ### 🚀 Currently
 
