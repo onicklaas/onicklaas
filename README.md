@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Nicklas
 
-<!--
-**onicklaas/onicklaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer** | 🤖 **AI Enthusiast**
+🇸🇪 Sweden
 
-Here are some ideas to get you started:
+Currently studying **Software Development with a specialization in AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,mysql,git,github,vscode" />
+
+### 🚀 Currently
+
+* 🤖 Learning AI & Machine Learning
+* 💻 Building projects with Python & C#/.NET
+* 📊 Exploring data & APIs
+
+### 🎯 2026
+
+Building real-world projects and becoming a better developer.
+
+---
+
+💡 **Always learning. Always building.**
